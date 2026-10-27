@@ -1,0 +1,235 @@
+[
+  {
+    "email": "phbac1604@gmail.com",
+    "fullName": "Đ/c Quản trị viên (Owner)",
+    "role": "owner",
+    "password": "bhxh@123456",
+    "department": "Ban Giám đốc / Trưởng bộ phận Quản lý Thu",
+    "phone": "0913.882.268",
+    "avatarBg": "bg-purple-600",
+    "isDefaultOwner": true,
+    "addedAt": "2026-09-29T14:18:33.953Z",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": true,
+      "canConfigZalo": true,
+      "canManageUsers": true
+    }
+  },
+  {
+    "email": "chuyenquanthu.phuoclong@gmail.com",
+    "fullName": "Hòm thư Chuyên quản Thu mặc định",
+    "role": "viewer",
+    "password": "uyqa uhti bupl fevz",
+    "department": "Bộ phận Thu & Khai thác nợ BHXH (Hòm thư gửi mặc định)",
+    "phone": "0291.3822268",
+    "avatarBg": "bg-rose-600",
+    "addedAt": "2026-09-30T03:00:00.000Z",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "chuyenquan.phuoclong@gmail.com",
+    "fullName": "Cán bộ Chuyên quản Thu (Viewer)",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Thu & Khai thác nợ BHXH",
+    "phone": "0984.123.456",
+    "avatarBg": "bg-blue-600",
+    "addedAt": "2026-09-29T14:18:33.953Z",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "phuoclong@baclieu.vss.gov.vn",
+    "fullName": "Cán bộ Thu BHXH Cơ sở Phước Long",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Cơ quan BHXH huyện Phước Long",
+    "phone": "0291.3822268",
+    "avatarBg": "bg-indigo-600",
+    "addedAt": "2026-09-29T14:18:33.953Z",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "phuoc.bhxhbl@gmail.com",
+    "fullName": "Lê Hữu Phước",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0913.882.268",
+    "avatarBg": "bg-blue-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-10-06T10:00:00.000Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "quoc.bhxhbaclieu@gmail.com",
+    "fullName": "Lê Văn Quốc",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0984.123.456",
+    "avatarBg": "bg-indigo-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-10-06T10:00:00.000Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "quocbao0007@gmail.com",
+    "fullName": "Lê Bảo Chung",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0918.456.789",
+    "avatarBg": "bg-teal-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-10-06T10:00:00.000Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "nguyenkha2020@gmail.com",
+    "fullName": "Nguyễn Hoàng Kha",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0909.123.456",
+    "avatarBg": "bg-sky-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-09-30T04:48:21.102Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "luyendanguyxapl@gmail.com",
+    "fullName": "Đoàn Văn Sáu",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0918.456.789",
+    "avatarBg": "bg-purple-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-09-30T04:49:11.807Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "bao.bhxhpl@gmail.com",
+    "fullName": "Lê văn Bào",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0903.789.012",
+    "avatarBg": "bg-amber-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-09-30T04:49:47.778Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "thuy.bhxhbl@gmail.com",
+    "fullName": "Trần Thị Thủy",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0984.123.456",
+    "avatarBg": "bg-cyan-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-10-06T10:00:00.000Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  },
+  {
+    "email": "cam.bhxhbl@gmail.com",
+    "fullName": "Nguyễn Văn Cẩm",
+    "role": "viewer",
+    "password": "bhxh@123456",
+    "department": "Bộ phận Quản lý Thu & Khai thác nợ",
+    "phone": "0913.882.268",
+    "avatarBg": "bg-emerald-600",
+    "isDefaultOwner": false,
+    "addedAt": "2026-10-06T10:00:00.000Z",
+    "addedBy": "phbac1604@gmail.com",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    }
+  }
+]

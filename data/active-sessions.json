@@ -1,0 +1,116 @@
+{
+  "bhxh_sess_1791449552616_8fa816a50d1498794945d5c3ada8e897": {
+    "id": "user-1791449552617",
+    "email": "bao.bhxhpl@gmail.com",
+    "username": "bao.bhxhpl",
+    "fullName": "Lê văn Bào",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791449552617,
+    "expiresAt": 1791535952617
+  },
+  "bhxh_sess_1791449604858_12362c3fb9be572d96803d2e71e69165": {
+    "id": "user-1791449604858",
+    "email": "chuyenquanthu.phuoclong@gmail.com",
+    "username": "chuyenquanthu.phuoclong",
+    "fullName": "Hòm thư Chuyên quản Thu mặc định",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791449604858,
+    "expiresAt": 1791536004858
+  },
+  "bhxh_sess_1791450757610_f45b4c0cb01dd45c687f6e93ccf8e909": {
+    "id": "user-1791450757610",
+    "email": "phuoc.bhxhbl@gmail.com",
+    "username": "phuoc.bhxhbl",
+    "fullName": "Lê Hữu Phước",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791450757610,
+    "expiresAt": 1791537157610
+  },
+  "bhxh_sess_1791450764311_b38f128f5f9f6dfaa258534517d2ecba": {
+    "id": "user-1791450764311",
+    "email": "quoc.bhxhbaclieu@gmail.com",
+    "username": "quoc.bhxhbaclieu",
+    "fullName": "Lê Văn Quốc",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791450764311,
+    "expiresAt": 1791537164311
+  },
+  "bhxh_sess_1791450764326_dbdfb90e8e0347555c5491ac7cc59f2a": {
+    "id": "user-1791450764326",
+    "email": "quocbao0007@gmail.com",
+    "username": "quocbao0007",
+    "fullName": "Lê Bảo Chung",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791450764326,
+    "expiresAt": 1791537164326
+  },
+  "bhxh_sess_1791450771664_dac847f23ed26be3f517f48a0e5f3dc1": {
+    "id": "user-1791450771664",
+    "email": "phuoc.bhxhbl@gmail.com",
+    "username": "phuoc.bhxhbl",
+    "fullName": "Lê Hữu Phước",
+    "role": "viewer",
+    "permissions": {
+      "canSendEmail": true,
+      "canSendZalo": true,
+      "canExport": true,
+      "canConfigSmtp": false,
+      "canConfigZalo": false,
+      "canManageUsers": false
+    },
+    "unit": "BHXH Cơ sở Phước Long (Bạc Liêu)",
+    "avatar": "👁️",
+    "issuedAt": 1791450771664,
+    "expiresAt": 1791537171664
+  }
+}

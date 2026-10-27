@@ -1,0 +1,17 @@
+{
+  "provider": "gmail",
+  "host": "smtp.gmail.com",
+  "port": 587,
+  "secure": false,
+  "user": "chuyenquanthu.phuoclong@gmail.com",
+  "senderName": "BHXH Cơ sở Phước Long - Chuyên Quản Thu",
+  "senderEmail": "chuyenquanthu.phuoclong@gmail.com",
+  "encryptedPass": {
+    "ciphertext": "d1f12bd9a57db1f8fb0aeec2307ab21108197e",
+    "iv": "a5114e6f854368230752b1c0",
+    "tag": "86d21961d38e89dd32c9642c8b1dcee5"
+  },
+  "authMethod": "oauth2_token",
+  "updatedAt": "2026-09-30T03:32:47.339Z",
+  "oauthAccessToken": "ya29.testtoken"
+}

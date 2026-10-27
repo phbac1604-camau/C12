@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Công cụ Phân tích Dữ liệu Excel",
+  "description": "Công cụ trực quan cho phép tải lên file Excel, tùy chọn hiển thị cột, phân tích số liệu chuyên biệt và xuất kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
